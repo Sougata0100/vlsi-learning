@@ -6,4 +6,4 @@ ECE graduate → VLSI engineer (45 days)
 
 **Status**: Simulation successful
 
-![Proof](day1_success.png)
+![Proof](day1_success.svg)
